@@ -9,12 +9,12 @@ The data is obtained from Enterprise Human Resources Integration-Statistical Dat
 
 
 
-Why are people leaving the federal government? Is it mostly people retiring?
+<b>Why are people leaving the federal government? Is it mostly people retiring?</b>
 ![image](https://github.com/jpierce0123/FedSepAcc/assets/149446202/9a7d6d0f-bd57-42a9-b747-500d58f4edb2)
 
-What Departments are losing the most people? Are they also the ones hiring the most?![image](https://github.com/jpierce0123/FedSepAcc/assets/149446202/62226217-223d-42d7-a276-392a40bea3af)
+<b>What Departments are losing the most people? Are they also the ones hiring the most?</b>
 ![image](https://github.com/jpierce0123/FedSepAcc/assets/149446202/d9ed7fdf-4e38-4e6c-9b61-7e695e7d6cdb)
 
-How many years experience in the USG/Mil do people joining or leaving have?
-Are people in their probationary period of 3 years likely to leave?
+<b>How many years experience in the USG/Mil do people joining or leaving have?
+Are people in their probationary period of 3 years likely to leave?</b>
 ![image](https://github.com/jpierce0123/FedSepAcc/assets/149446202/a8183f21-a5ab-41dc-bb60-87a5dea0cfba)
